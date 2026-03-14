@@ -1,4 +1,46 @@
+Production-Grade Python
+ 
+
+
+Engineering Real-World Systems, APIs & Scalable Deployments 
+
+
+
+Author: Vaibhav Sharma
+
+
 #Production-Grade Python
+
+Table of Contents
+
+• 1. Thinking Like a Python Engineer
+
+• 2. Environment Engineering & Dependency Control
+
+• 3. Logging & Production Debugging 
+
+• 4. REST Architecture & FastAPI Engineering 
+
+• 5. Authentication, JWT & Secure Authorization
+
+• 6. Async Python & Performance Engineering 
+
+• 7. Testing with Pytest & TDD 
+
+• 8. Docker & Containerization
+
+• 9. CI/CD & Deployment Pipelines
+
+• 10. AWS Production Infrastructure
+
+• 11. Caching & Performance Optimization 
+
+• 12. Enterprise Capstone Project 
+
+• 13. System Design for Backend Engineers 
+
+• 14. Career, Interviews & Freelancing Strategy
+
 
 Overview:
 
@@ -27,3 +69,5 @@ This book bridges the gap between writing Python code and engineering production
 
 
 Please note : The content after keyword like Python, Yaml, Dockerfile, plain text is code written in that language. 
+
+

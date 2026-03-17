@@ -72,4 +72,6 @@ This book bridges the gap between writing Python code and engineering production
 
 Please note : The content after keyword like Python, Yaml, Dockerfile, plain text is code written in that language. 
 
+![show your support](IMG-20260226-WA0005.jpg )
+
 
